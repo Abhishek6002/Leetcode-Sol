@@ -47,3 +47,5 @@ If you have questions or suggestions, open an issue or submit a pull request. Yo
 ---
 
 Happy coding — good luck with your LeetCode practice!
+
+==============================================================================THANK YOU=======================================================================
