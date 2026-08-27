@@ -43,8 +43,8 @@ This repository does not include a license by default. If you want to use or con
 ## Contact
 
 If you have questions or suggestions, open an issue or submit a pull request. You can also reach out via the GitHub profile: `https://github.com/Abhishek6002`.
-
----
+Abhishek Kumar
+abhishekk41118@gmail.com
 
 Happy coding — good luck with your LeetCode practice!
 
